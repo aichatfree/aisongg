@@ -1,0 +1,45 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 17 Apr 2025 01:46:09 at https://aisonggenerator.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://aisonggenerator.io/ -O1 "C:\My Web Sites\ddd" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:47:11	Warning: 	Link https://aisonggenerator.io/myworks not scanned (follow robots meta tag)
+01:47:13	Warning: 	Link https://aisonggenerator.io/contact not scanned (follow robots meta tag)
+01:47:13	Warning: 	Link https://aisonggenerator.io/login not scanned (follow robots meta tag)
+01:47:13	Warning: 	Link https://aisonggenerator.io/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+01:47:15	Warning: 	Link https://aisonggenerator.io/es/myworks not scanned (follow robots meta tag)
+01:47:16	Warning: 	Link https://aisonggenerator.io/es/contact not scanned (follow robots meta tag)
+01:47:16	Warning: 	Link https://aisonggenerator.io/es/login not scanned (follow robots meta tag)
+01:47:16	Warning: 	Link https://aisonggenerator.io/pt/myworks not scanned (follow robots meta tag)
+01:47:16	Warning: 	Link https://aisonggenerator.io/pt/contact not scanned (follow robots meta tag)
+01:47:16	Warning: 	Link https://aisonggenerator.io/pt/login not scanned (follow robots meta tag)
+01:47:16	Warning: 	Link https://aisonggenerator.io/ja/myworks not scanned (follow robots meta tag)
+01:47:17	Warning: 	Link https://aisonggenerator.io/ja/contact not scanned (follow robots meta tag)
+01:47:17	Warning: 	Link https://aisonggenerator.io/ja/login not scanned (follow robots meta tag)
+01:47:17	Warning: 	Link https://aisonggenerator.io/ko/myworks not scanned (follow robots meta tag)
+01:47:17	Warning: 	Link https://aisonggenerator.io/ko/contact not scanned (follow robots meta tag)
+01:47:17	Warning: 	Link https://aisonggenerator.io/ko/login not scanned (follow robots meta tag)
+01:47:17	Warning: 	Link https://aisonggenerator.io/vi/myworks not scanned (follow robots meta tag)
+01:47:18	Warning: 	Link https://aisonggenerator.io/vi/contact not scanned (follow robots meta tag)
+01:47:18	Warning: 	Link https://aisonggenerator.io/vi/login not scanned (follow robots meta tag)
+01:47:18	Warning: 	Link https://aisonggenerator.io/th/myworks not scanned (follow robots meta tag)
+01:47:18	Warning: 	Link https://aisonggenerator.io/th/contact not scanned (follow robots meta tag)
+01:47:18	Warning: 	Link https://aisonggenerator.io/th/login not scanned (follow robots meta tag)
+01:47:19	Warning: 	Link https://aisonggenerator.io/zh/myworks not scanned (follow robots meta tag)
+01:47:19	Warning: 	Link https://aisonggenerator.io/zh/contact not scanned (follow robots meta tag)
+01:47:19	Warning: 	Link https://aisonggenerator.io/zh/login not scanned (follow robots meta tag)
+01:47:19	Warning: 	Link https://aisonggenerator.io/fr/myworks not scanned (follow robots meta tag)
+01:47:20	Warning: 	Link https://aisonggenerator.io/fr/contact not scanned (follow robots meta tag)
+01:47:20	Warning: 	Link https://aisonggenerator.io/fr/login not scanned (follow robots meta tag)
+01:47:20	Warning: 	Link https://aisonggenerator.io/de/myworks not scanned (follow robots meta tag)
+01:47:20	Warning: 	Link https://aisonggenerator.io/de/contact not scanned (follow robots meta tag)
+01:47:20	Warning: 	Link https://aisonggenerator.io/de/login not scanned (follow robots meta tag)
+01:47:20	Warning: 	Link https://aisonggenerator.io/ru/myworks not scanned (follow robots meta tag)
+01:47:21	Warning: 	Link https://aisonggenerator.io/ru/contact not scanned (follow robots meta tag)
+01:47:21	Warning: 	Link https://aisonggenerator.io/ru/login not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 12 seconds : 190 links scanned, 189 files written (17022561 bytes overall) [6258018 bytes received at 86916 bytes/sec], 14479266 bytes transferred using HTTP compression in 157 files, ratio 23%, 17.2 requests per connection
+(No errors, 34 warnings, 0 messages)
